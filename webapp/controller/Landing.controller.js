@@ -5,6 +5,6 @@ sap.ui.define([
 
 	return Controller.extend("CH.INDUSTRY.REPO1.controller.Landing", {
 		//BUGFIX 1 
-		//BUGFIX 2
+    //BUGFIX 2
 	});
 });
