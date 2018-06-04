@@ -4,6 +4,7 @@ sap.ui.define([
 	"use strict";
 
 	return Controller.extend("CH.INDUSTRY.REPO1.controller.Landing", {
+
 		//BUG1
 		//BUG2
 		//HOTFIX1
