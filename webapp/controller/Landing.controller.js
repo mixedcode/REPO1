@@ -8,5 +8,6 @@ sap.ui.define([
 		//BUG1
 		//BUG2
 		//HOTFIX1
+		//HOTFIX2
 	});
 });
